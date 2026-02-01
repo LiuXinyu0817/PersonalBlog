@@ -1,0 +1,15 @@
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\bin\Debug\net8.0\Blog.IRepository.deps.json
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\bin\Debug\net8.0\Blog.IRepository.dll
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\bin\Debug\net8.0\Blog.IRepository.pdb
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\bin\Debug\net8.0\Blog.Model.dll
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\bin\Debug\net8.0\Blog.Model.pdb
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\obj\Debug\net8.0\Blog.IRepository.csproj.AssemblyReference.cache
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\obj\Debug\net8.0\Blog.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\obj\Debug\net8.0\Blog.IRepository.AssemblyInfoInputs.cache
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\obj\Debug\net8.0\Blog.IRepository.AssemblyInfo.cs
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\obj\Debug\net8.0\Blog.IRepository.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\obj\Debug\net8.0\Blog.IRe.F4044306.Up2Date
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\obj\Debug\net8.0\Blog.IRepository.dll
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\obj\Debug\net8.0\refint\Blog.IRepository.dll
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\obj\Debug\net8.0\Blog.IRepository.pdb
+D:\ASP.NET Core\WebAPI\PersonalBlog\Blog.IRepository\obj\Debug\net8.0\ref\Blog.IRepository.dll
